@@ -113,3 +113,5 @@ As well as plenty of users who have come with great feedback, either on [the off
 -   **Fonts:** The fonts used in this project carry their own licenses:
     -   [IM Fell English Font Family](https://fonts.google.com/specimen/IM+Fell+English)
     -   [Poppins](https://fonts.google.com/specimen/Poppins)
+
+<!-- Auto-update: 2025-10-15T14:00:50.799547 -->
